@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My name is LaKiesa
+- 🌱 I’m currently learning data science, Python, and Microsoft Azure.
+- 📫 How to reach me: [Twitter](https://twitter.com/nomirunn)
+
 <!--
 **Nomirunn/Nomirunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
