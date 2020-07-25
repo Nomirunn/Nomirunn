@@ -1,5 +1,5 @@
 ### My name is LaKiesa
-- 🌱 I’m currently learning data science, Python, and Microsoft Azure.
+- 🌱 I’m currently learning data analysis/science.
 - 📫 How to reach me: [Twitter](https://twitter.com/nomirunn)
 
 ### Languages and Tools:
